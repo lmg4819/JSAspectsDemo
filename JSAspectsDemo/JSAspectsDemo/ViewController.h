@@ -9,17 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
-/*
- View
- 
- MCCmsCell_notice.h
- MCRollingNoticeView.h
- 
- Model
- 
- MCRollingNoticeModel.h
- MCRollingNoticeButtonModel.h
- */
 
 @end
 
